@@ -1,0 +1,52 @@
+.label{
+     -fx-font-family: "High Tower Text";
+     -fx-font-size: 25px;
+ }
+#title-label{
+    -fx-font-family: "High Tower Text";
+    -fx-font-size: 35px;
+
+}
+.button{
+    -fx-background-size: 45px;
+    -fx-background-color: #f3e57a;
+    -fx-border-width: 5px;
+    -fx-background-radius: 7px;
+    -fx-border-radius: 5px;
+    -fx-border-color: #bc8b2c;
+    -fx-font-size: 15px;
+    -fx-font-family: "High Tower Text";
+}
+.button:hover{
+    -fx-background-color: #cf7d3c;
+    -fx-cursor: hand;
+}
+#back-button{
+    -fx-background-color: none;
+    -fx-border-color: none;
+}
+#back-button:hover{
+    -fx-cursor: hand;
+}
+#help-button2{
+    -fx-background-color:none;
+    -fx-border-color: none;
+}
+#help-button2:hover{
+    -fx-cursor: hand;
+}
+.toggle-button{
+    -fx-background-size: 100px;
+    -fx-background-color: #6e2121;
+}
+.toggle-button:hover{
+    -fx-background-color: #7a3737;
+    -fx-cursor: hand;
+
+}
+.toggle-button:selected{
+    -fx-background-color: #6d6563;
+}
+
+
+
